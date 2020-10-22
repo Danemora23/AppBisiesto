@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppBisiesto</string>
+    <string name="Año">AÑO BISIESTO</string>
+    <string name="Bisiesto">AÑO</string>
+    <string name="Ingresar" />
+    <string name="Verificar">VERIFICAR</string>
+</resources>
